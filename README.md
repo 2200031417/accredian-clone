@@ -70,4 +70,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
-(Will be added after deployment)
+GitHub Repo:
+https://github.com/2200031417/accredian-clone
+
+Live Link:
+https://accredian-clone-nu-seven.vercel.app

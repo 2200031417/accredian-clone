@@ -1,40 +1,75 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Accredian Enterprise Clone
 
-## Getting Started
+## 🚀 Overview
 
-First, run the development server:
+This project is a partial clone of the Accredian Enterprise landing page built using Next.js.
+It demonstrates modern UI design, responsive layout, and component-based architecture.
+
+---
+
+## 🛠 Tech Stack
+
+* Next.js (App Router)
+* React (Functional Components + Hooks)
+* Tailwind CSS
+* Framer Motion (animations)
+* Next.js API Routes
+
+---
+
+## ⚙️ Setup Instructions
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📌 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Fully responsive design (mobile + desktop)
+* Smooth scrolling navigation
+* Reusable components
+* Animated UI using Framer Motion
+* Lead capture form with API integration
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 Approach
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Built using modular component structure
+* Focused on clean UI and spacing
+* Used Tailwind for rapid styling
+* Added animations and interactions for better UX
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🤖 AI Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Used ChatGPT for:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# accredian-clone
->>>>>>> 01b84bc233a52b1a49f169efb993614b3d1b6303
+  * Project guidance and structure
+  * Debugging issues
+  * UI enhancement suggestions
+
+### Manual Work:
+
+* Designed layout and responsiveness
+* Customized UI components
+* Implemented animations and API integration
+
+---
+
+## 🔮 Future Improvements
+
+* Add authentication system
+* Connect real backend database
+* Improve accessibility and SEO
+* Add more animations and transitions
+
+---
+
+## 🌐 Live Demo
+
+(Will be added after deployment)

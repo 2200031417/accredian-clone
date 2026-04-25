@@ -49,24 +49,22 @@ npm run dev
 
 * Used ChatGPT for:
 
-  * Project guidance and structure
-  * Debugging issues
-  * UI enhancement suggestions
+  * Project guidance and debugging
+  * UI improvements
 
 ### Manual Work:
 
-* Designed layout and responsiveness
-* Customized UI components
-* Implemented animations and API integration
+* Designed layout
+* Implemented responsiveness
+* Added animations and API integration
 
 ---
 
 ## 🔮 Future Improvements
 
-* Add authentication system
-* Connect real backend database
-* Improve accessibility and SEO
-* Add more animations and transitions
+* Authentication system
+* Backend integration
+* Better accessibility
 
 ---
 
